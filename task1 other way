@@ -12,8 +12,8 @@ print(10/20)
 
 Another Way
 
-first=input("The first number is: ")
-second=input("The second number is: ")
+first=int(input("The first number is: "))
+second=int(input("The second number is: "))
 print("Addition:", first+second)
 print("Subtraction:", first-second)
 print("Multiplication:", first*second)
