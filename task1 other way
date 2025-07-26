@@ -1,0 +1,21 @@
+print("Q1")
+print("The first number is: 10")
+print("The second number is: 20")
+print("Addition:")
+print(10+20)
+print("Subtraction:")
+print(10-20)
+print("Multiplication:")
+print(10*20)
+print("Division:")
+print(10/20)
+
+Another Way
+
+first=input("The first number is: ")
+second=input("The second number is: ")
+print("Addition:", first+second)
+print("Subtraction:", first-second)
+print("Multiplication:", first*second)
+print("Division:", first/second)
+
